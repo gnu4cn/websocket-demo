@@ -6,4 +6,4 @@
 
 ## nginx的配置
 
-在使用Nginx对express.js服务器进行代理时，需要特别的配置文件，[这里](https://github.com/gnu4cn/websocket-demo/blob/master/ws-demo.nginx.example)有一个示例。
+在使用Nginx对express.js服务器进行代理、且用到WebSocket时，需要特别的配置文件，[这里](https://github.com/gnu4cn/websocket-demo/blob/master/ws-demo.nginx.example)有一个示例。
